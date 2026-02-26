@@ -9,6 +9,7 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/combo-tvp-nc-moj.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Drewski2423/MC.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/us_shopping.m3u8", 
         "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_us.m3u", 
         "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_us.m3u", 
