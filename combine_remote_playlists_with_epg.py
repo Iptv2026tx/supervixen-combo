@@ -7,10 +7,10 @@ import re
 PLAYLISTS = [
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/Roxiestreams.m3u", 
-        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/sinclair.m3u8",      
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/sinclair.m3u8",      
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/combo-tvp-nc-moj.m3u8", 
-        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
-        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/turnerwbd.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/estrella.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/us_shopping.m3u8", 
         "http://drewlive2423.duckdns.org:8081/DrewLive/DrewLive Merged Playlist.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plex_au.m3u",
