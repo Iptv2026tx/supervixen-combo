@@ -13,7 +13,6 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/estrella.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/us_shopping.m3u8", 
         "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/Curated/aew_fast_ch.m3u8", 
-        "http://drewlive2423.duckdns.org:8081/DrewLive/DrewLive Merged Playlist.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plex_au.m3u",
         "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plex_ca.m3u",
         "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plex_gb.m3u",
@@ -49,7 +48,7 @@ PLAYLISTS = [
 EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # Output file
-OUTPUT_FILE = "DemonRizing_playlist.m3u"
+OUTPUT_FILE = "SuperVixen.m3u"
 
 # ===== FUNCTIONS =====
 def get_playlist_name(url):
