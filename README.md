@@ -8,4 +8,4 @@ First off I'd like to thank BuddyChewChew who created this script. I have modifi
 ▶️ One big playlist with EPG included. If EPG is incorrect please place an issue. 
 
 M3U
-[https://raw.githubusercontent.com/iptv2025tx/DemonRizing-combined/refs/heads/main/DemonRizing_playlist.m3u](https://raw.githubusercontent.com/iptv2025tx/DemonRizing-combined/refs/heads/main/DemonRizing_playlist.m3u)
+[https://raw.githubusercontent.com/Iptv2026tx/supervixen-combo/refs/heads/main/SuperVixen.m3u](https://raw.githubusercontent.com/Iptv2026tx/supervixen-combo/refs/heads/main/SuperVixen.m3u)
