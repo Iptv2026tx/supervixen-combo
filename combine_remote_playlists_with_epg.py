@@ -12,6 +12,7 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/sinclair.m3u8",      
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/combo-tvp-nc-moj.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/turnerwbd.m3u8", 
+        "https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/OTT/religion.M3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/estrella.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/us_shopping.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plex_au.m3u",
