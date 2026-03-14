@@ -24,7 +24,7 @@ PLAYLISTS = [
         "https://github.com/iptv2025tx/BuddyPluto/raw/refs/heads/main/pluto_us.m3u",
         "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_us.m3u", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/apsattv/distro-w-epg.m3u8", 
-        "https://raw.githubusercontent.com/Iptv2026tx/hdhr-combo/refs/heads/main/hdhr.m3u, 
+        "https://raw.githubusercontent.com/Iptv2026tx/hdhr-combo/refs/heads/main/hdhr.m3u", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/roku.m3u8", 
         "https://raw.githubusercontent.com/Iptv2026tx/music-combo/refs/heads/main/music.m3u", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/diablo.m3u8",
