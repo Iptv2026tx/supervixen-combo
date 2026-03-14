@@ -5,7 +5,7 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-        "https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/OTT/events.m3u8
+        "https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/OTT/events.M3u8", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
         "https://raw.githubusercontent.com/Iptv2026tx/sports/refs/heads/main/powerv2/powerv2.m3u8", 
         "https://raw.githubusercontent.com/Iptv2026tx/sports/refs/heads/main/Roxiestreams.m3u",
